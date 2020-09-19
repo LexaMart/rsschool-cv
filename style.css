@@ -1,0 +1,17 @@
+section{
+    text-align: center;  
+}
+ul{
+    list-style-type: none;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: solid;
+}
+p{
+    font: italic 17.5px "Times New Roman", sans-serif;
+    margin-left: 20% ;
+    margin-right: 20% ;
+}
+h3{
+    font-size: 25px ;
+}
